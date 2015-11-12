@@ -1,0 +1,43 @@
+body {
+	line-height: 1.5;
+	color: white;
+	font-family: levenim MT;
+
+	background: url('../../../giffy.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.container{
+	width: 500px;
+	margin: 80px;
+	background: rgba(149,165,166,0.5);
+	padding: 23px;
+	border-radius: 15px;
+}
+
+h1 {
+	font-size: 55px;
+	text-indent: 20px;
+	margin-bottom: -24px;
+	font-family: leelawadee;
+}
+
+h4{
+	font-size: 18px;
+	text-indent: 20px;
+}
+a {
+	color: #6C7A89;
+	text-decoration: none;
+}
+.container-video{
+	width: 500px;
+	margin: 0 auto;
+	background: rgba(1,0,0,0.5);
+	padding: 23px;
+	border-radius: 15px;
+
+
+}
